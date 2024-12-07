@@ -2,6 +2,9 @@
 
 Fast React Pizza Co. is a Redux project where users can order pizza without the need for authentication.
 
+You can view the project live here:
+[Fast-React-Pizza](https://reactpizza-abdousadik.netlify.app/)
+
 ## Table of Contents
 - [Project Requirements from the Business](#project-requirements-from-the-business)
 - [Technologies](#technologies)
