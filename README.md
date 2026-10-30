@@ -2,18 +2,20 @@
 
 ![Fast-React-Pizza](public/pizza.png)
 
-Fast React Pizza Co. is a Redux project where users can order pizza without the need for authentication.
+A React learning application for browsing a pizza menu, managing a cart, placing demonstration orders, and updating priority status. It uses Redux Toolkit, React Router, and Tailwind CSS.
 
-You can view the project live here:
+Learning project built while following [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann. The application concept and course design come from the course; this repository contains my course implementation. It is retained as learning work.
+
+Hosted demo link (availability has not been verified):
 [Fast-React-Pizza](https://reactpizza-abdousadik.netlify.app/)
 
 ## Table of Contents
-- [Project Requirements from the Business](#project-requirements-from-the-business)
+- [Exercise Requirements](#exercise-requirements)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [References](#references)
 
-## Project Requirements from the Business
+## Exercise Requirements
 
 This application allows users to:
 
@@ -53,7 +55,7 @@ To run the project locally:
    ```
 3. Install dependencies:
    ```bash
-   npm install
+   npm ci
    ```
 4. Start the development server:
    ```bash
@@ -63,3 +65,9 @@ To run the project locally:
 ---
 
 Back to [Top](#fast-react-pizza-co)
+
+## References
+
+[The Ultimate React Course — Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)
+
+Retained as course-based learning work. No independent commercial-product or production-readiness claim is made.
